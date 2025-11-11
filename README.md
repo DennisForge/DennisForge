@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub! I'm Dennis
+# 👋 Welcome to my GitHub! I'm Denis
 
 <div align="center">
 
@@ -6,9 +6,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/DennisForge?style=for-the-badge&color=blue)](https://github.com/DennisForge)
 [![GitHub stars](https://img.shields.io/github/stars/DennisForge?style=for-the-badge&color=yellow)](https://github.com/DennisForge)
 
-### 🎯 Python Developer | AI Specialist | Building Enterprise Solutions
+### 🎯 Junior Python Developer | Learning Cloud & AI | Building Skills Through Projects
 
-*Developing Python applications and automation tools - one innovative project at a time* 🚀
+*Learning Python development, cloud services, and automation - one project at a time* 🚀
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Connect](https://img.shields.io/badge/Let's_Connect-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennisForge)
@@ -19,32 +19,34 @@
 
 ## 🚀 About Me
 
-I'm a Python developer specializing in data analysis, automation, and system utilities. My repositories showcase a progression from foundational projects to practical applications, demonstrating continuous growth and real-world problem-solving skills.
+I'm a junior Python developer learning cloud technologies, automation, and data analysis. My repositories showcase my learning journey from basic projects to more complex applications, demonstrating steady growth through hands-on practice.
 
 ### 📍 Quick Info
 - 🇷🇸 **Location:** Serbia  
-- 🎯 **Status:** Python developer specializing in data analysis, automation, and system utilities
-- 📚 **Current Level:** Intermediate developer with growing expertise
-- 💪 **Motto:** "Building solutions that make a difference!"
+- 🎯 **Status:** Junior Python developer learning cloud automation and data analysis
+- 📚 **Current Level:** Junior developer focused on continuous learning
+- 💪 **Motto:** "Learning by building, one project at a time!"
 
-### 🔍 Expertise Areas
-- 🐍 **Python development & advanced OOP**
+### 🔍 Learning Focus Areas
+- 🐍 **Python development & OOP fundamentals**
+- ☁️ **AWS cloud services & serverless basics**
 - 📊 **Data analysis & API integrations** 
+- 🔄 **ETL pipelines & data automation (learning)**
 - 🎮 **Game development & interactive applications**
 - 🔧 **System monitoring & automation tools**
 - 💻 **Text processing & data transformation**
 
-### 📖 Currently Mastering
-- Advanced data analysis techniques
-- API integration patterns
-- System performance monitoring
-- Object-oriented design principles
+### 📖 Currently Learning
+- Serverless architecture patterns and best practices
+- AWS services integration and cloud fundamentals
+- Building cloud-native applications step by step
+- Event-driven automation workflows
 
 ### 🎯 Goals 2025
-- Build more complex data analysis projects
-- Contribute to open source initiatives
-- Develop web applications with Python
-- Master advanced automation techniques
+- Master AWS fundamentals and get cloud certified
+- Build more complex automation projects
+- Learn advanced Python patterns and testing
+- Contribute to open source learning projects
 
 ## 🏆 Learning Journey
 
@@ -54,20 +56,26 @@ I'm a Python developer specializing in data analysis, automation, and system uti
 
 </div>
 
-### 📈 My Progress
-- 🎯 **6 Repositories** - From foundational projects to practical applications
-- 📚 **Python Expertise** - Advanced OOP, data processing, and system utilities
-- 🔧 **Development Skills** - API integration and data transformation
-- 📊 **Data Projects** - Movie data analysis and sales analytics
-- 🎮 **Interactive Development** - Game collections and user interfaces
+### 📈 My Learning Progress
+- 🎯 **7 Repositories** - Learning journey from basic to cloud projects
+- 📚 **Python Skills** - Growing OOP knowledge, data processing, and utilities
+- 🔧 **Development Journey** - Learning API integration and cloud services
+- 📊 **Data Projects** - Movie data analysis and business analytics
+- ☁️ **Cloud Learning** - First AWS serverless project with Lambda
 
-## 🛠️ Tech Stack & Professional Tools
+## 🛠️ Tech Stack & Learning Tools
 
 <div align="center">
 
-### Core Technologies
+### Core Technologies (Learning)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+
+### Cloud Services (Exploring)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4B4B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Data & APIs
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -87,6 +95,11 @@ I'm a Python developer specializing in data analysis, automation, and system uti
 
 ```
 DennisForge
+│
+├── ☁️ aws-atp-pipeline ⭐ LATEST
+│   └── 🚀 Serverless AWS Lambda ETL pipeline for ATP tennis data analysis.
+│       Automated data processing with EventBridge scheduling, S3 storage,
+│       and secure API integration using Kaggle API and Secrets Manager.
 │
 ├── 🎬 movie-imdb-api-project
 │   └── 📊 Movie dataset enrichment using OMDb API — fetches IMDb ratings, actors,
@@ -116,6 +129,26 @@ DennisForge
 </div>
 
 ### 🌟 Featured Projects
+
+#### ☁️ [AWS ATP Pipeline](https://github.com/DennisForge/aws-atp-pipeline) ⭐ LATEST
+**Learning AWS Serverless - My First Cloud Project**
+
+[![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-orange?logo=awslambda&style=flat-square)](https://aws.amazon.com/lambda/)
+[![Amazon S3](https://img.shields.io/badge/Amazon-S3-green?logo=amazons3&style=flat-square)](https://aws.amazon.com/s3/)
+[![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&style=flat-square)](https://www.python.org/)
+[![EventBridge](https://img.shields.io/badge/EventBridge-Scheduled-red?logo=amazonaws&style=flat-square)](https://aws.amazon.com/eventbridge/)
+
+**What I Learned:**
+- ☁️ **First AWS Experience** - Learning serverless architecture from scratch
+- 📅 **Event Scheduling** - Understanding cron expressions and EventBridge
+- 🔒 **Cloud Security** - Using AWS Secrets Manager for secure credential storage
+- 🚀 **Infrastructure as Code** - Learning how to deploy cloud resources
+- 📊 **ETL Concepts** - Extract from Kaggle API → Transform → Load to S3
+- ⚡ **Lambda Functions** - Writing efficient, cloud-native Python code
+
+**[🔗 View Project](https://github.com/DennisForge/aws-atp-pipeline) | [📖 Learning Notes](https://github.com/DennisForge/aws-atp-pipeline#what-i-learned)**
+
+---
 
 #### 🎬 [Movie IMDb API Project](https://github.com/DennisForge/movie-imdb-api-project)
 **Data Integration & Analysis - API-Powered Movie Database**
@@ -149,12 +182,13 @@ DennisForge
 
 ---
 
-### 📚 Complete Project Portfolio
+### 📚 My Learning Project Portfolio
 
-| Project | Technologies & Skills | Focus Area | Status |
-|---------|----------------------|------------|--------|
+| Project | What I Learned | Focus Area | Status |
+|---------|----------------|------------|--------|
+| **aws-atp-pipeline** ⭐ | AWS Lambda, S3, cloud basics, serverless | Learning Cloud | ✅ Complete |
 | **movie-imdb-api-project** | API integration, data processing, XML | Data Analysis | ✅ Complete |
-| **system-check** | System monitoring, performance analysis | System Administration | ✅ Complete |
+| **system-check** | System monitoring, performance basics | System Tools | ✅ Complete |
 | **python-games-collection** | Game development, OOP, user interaction | Interactive Development | ✅ Complete |
 | **personal-diary-analyzer** | Text processing, data analysis | Text Analytics | ✅ Complete |
 | **online_sales_analysis** | Data analysis, business intelligence | Business Analytics | ✅ Complete |
@@ -175,51 +209,51 @@ DennisForge
 
 </div>
 
-### 📈 Development Stats
-- 🔥 **Development Focus** - Data analysis, system utilities, and practical applications
-- 💻 **Primary Language** - Python with focus on real-world problem solving
-- 📚 **Repository Count** - 6 projects showcasing progressive skill development
-- 🎯 **Specialization** - Python development → Data analysis & system tools
-- 🤝 **Community** - Growing presence in developer communities
+### 📈 Learning & Development Stats
+- 🔥 **Learning Focus** - Cloud basics, Python improvement, and hands-on project building
+- 💻 **Primary Learning Path** - Python with AWS cloud fundamentals
+- 📚 **Repository Count** - 7 projects showing learning progression from basics to cloud
+- 🎯 **Journey** - Python fundamentals → Cloud basics & automation
+- 🤝 **Community** - Learning from others and sharing junior developer experiences
 
-## 🧰 Current Development Focus & Growth
+## 🧰 Current Learning Focus & Growth Plan
 
 <div align="center">
 
-| 📚 **Skill Area** | 📈 **Proficiency** | 🎯 **Next Steps** |
-|------------------|------------------|-------------------|
-| 🐍 **Python & OOP** | Advanced | Design patterns, architecture |
-| 🔧 **Git & Version Control** | Intermediate | Advanced workflows, collaboration |
-| 📊 **Data Analysis** | Intermediate | Advanced analytics, visualization |
-| 🌐 **API Integration** | Intermediate | RESTful design, authentication |
-| 💻 **System Programming** | Growing | Advanced system administration |
+| 📚 **Learning Area** | 📈 **Current Level** | 🎯 **Next Steps** |
+|---------------------|---------------------|-------------------|
+| 🐍 **Python & OOP** | Intermediate | Advanced patterns, testing |
+| ☁️ **AWS Cloud Services** | Beginner → Intermediate | More services, best practices |
+| 📊 **Serverless & ETL** | Beginner | More complex transformations |
+| 🔧 **DevOps & Automation** | Beginner | CI/CD basics, deployment |
+| 💾 **Data Engineering** | Learning | Database fundamentals, storage |
 
 </div>
 
-### 🎯 Development Plan 2025
+### 🎯 Learning Plan 2025
 
 #### Q1 2025 Goals
-- 📊 **Advanced Data Visualization** - Charts, graphs, and interactive displays
-- 🌐 **Web Development** - Flask/Django for web applications
-- 🔄 **Database Integration** - SQL and database management
-- 📱 **GUI Applications** - Desktop applications with tkinter
+- 🏗️ **More AWS Services** - Explore additional AWS services and cloud patterns
+- � **Better Data Processing** - Learn more advanced data transformation techniques
+- � **Testing & Quality** - Improve code testing and quality practices
+- 📚 **Cloud Fundamentals** - Study for AWS certification
 
 #### Q2 2025 Goals  
-- 🤖 **Automation Projects** - Advanced scripting and task automation
-- 🌍 **Open Source Contributions** - Contributing to established projects
-- 📚 **Documentation** - Technical writing and project documentation
-- 🎓 **Knowledge Sharing** - Tutorials and educational content
+- 🔄 **CI/CD Learning** - Understand deployment pipelines and automation
+- 🌐 **Web Development** - Learn Flask/Django for web applications
+- 🤝 **Open Source** - Start contributing to projects and learning from others
+- � **Documentation** - Improve technical writing and project documentation
 
 #### Long-term Vision
-> 🎯 **"Build practical solutions that solve real problems efficiently"**
+> 🎯 **"Become a skilled cloud developer who builds reliable, well-tested solutions"**
 
 ### 🌱 Current Learning Focus
 
-- 📖 **Data Science** - Advanced analytics and machine learning basics
-- 🔧 **DevOps Basics** - Deployment, testing, and CI/CD concepts
-- 📊 **Database Design** - SQL optimization and database architecture
-- 🌐 **Web Technologies** - Frontend basics and full-stack development
-- 📚 **Best Practices** - Code quality, testing, and documentation
+- 📖 **Advanced AWS Services** - Step Functions, API Gateway, and advanced cloud patterns
+- 🔧 **Infrastructure as Code** - CloudFormation, Terraform, and automated deployments
+- 📊 **Data Lake Architecture** - Large-scale data processing and analytics platforms
+- 🌐 **Microservices Design** - Distributed systems and event-driven architecture
+- 📚 **Cloud Security** - Advanced security patterns and compliance frameworks
 
 ## 🤝 Professional Networking & Collaboration
 
@@ -229,43 +263,44 @@ DennisForge
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennisForge)
 
 ### 🌍 From Serbia 🇷🇸
-*Building practical Python solutions, one project at a time*
+*Building scalable cloud solutions, one serverless function at a time*
 
 ---
 
-### 🚀 Open for Collaboration
+### 🚀 Open for Learning & Collaboration
 
 #### 🌟 Interested in:
-- 🤝 **Collaboration** on data analysis and automation projects
-- 📚 **Knowledge sharing** with Python developers
-- 🎯 **Python developer** opportunities
-- 🔧 **Open source** contributions
-- 💡 **Mentorship** and learning from experienced developers
+- 🤝 **Collaboration** on learning projects and junior-friendly open source
+- 📚 **Learning** from experienced developers and cloud engineers
+- 🎯 **Junior Python/Cloud developer** opportunities
+- 🔧 **Open source** contributions where I can learn and grow
+- 💡 **Mentorship** and guidance from senior developers
 
-#### 🤲 What I can contribute:
-- 🐍 **Python development** and problem-solving skills
-- 📊 **Data analysis** and processing expertise
-- 🔧 **System utilities** and automation tools
-- 🎮 **Interactive applications** and user interfaces
-- 🌱 **Enthusiasm** for learning and growth
+#### 🤲 What I can offer:
+- 🐍 **Growing Python skills** and enthusiasm for clean code
+- ☁️ **Basic AWS knowledge** and eagerness to learn cloud technologies
+- 📊 **Data processing experience** from various learning projects
+- 🔧 **Problem-solving mindset** and willingness to learn
+- 🎮 **Project diversity** showing ability to work across different domains
+- 🌱 **Positive learning attitude** and documentation of my journey
 
 </div>
 
-### 💭 Development Philosophy
+### 💭 Learning Philosophy
 
-> *"Every problem is an opportunity to learn something new and build something useful."* 
+> *"Every problem is a learning opportunity and every project teaches something new."* 
 > 
-> I believe in practical programming that solves real problems. Each project teaches me something valuable and helps me grow as a developer.
+> I believe in learning by building real projects that solve actual problems. Each repository represents a step in my journey from basic Python to understanding cloud technologies and software engineering best practices.
 
 ---
 
 <div align="center">
 
-### 💭 *"Building useful solutions, one Python script at a time! 🐍"*
+### 💭 *"Building my skills one project at a time! 🚀"*
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-⭐️ **From [DennisForge](https://github.com/DennisForge)** - *Developing practical Python solutions and growing as a developer* 🚀
+⭐️ **From [DennisForge](https://github.com/DennisForge)** - *Learning cloud technologies and building Python skills through hands-on projects* 🚀
 
 ![](https://komarev.com/ghpvc/?username=DennisForge&style=for-the-badge&color=brightgreen)
 
@@ -293,26 +328,26 @@ DennisForge
 - 🔧 **Practical applications** - projects that solve real problems
 - 💡 **Growth mindset** - continuous learning and improvement
 
-### 🌱 My Development Approach
-- 🛠️ **Problem-solving:** Building tools and solutions for practical needs
-- 📝 **Documentation:** Clear explanations and learning notes
-- 🤝 **Community:** Learning from others and sharing knowledge
-- 🔄 **Iteration:** Continuous improvement and skill building
-- 🎯 **Purpose:** Creating useful applications that make a difference
+### 🌱 My Learning Approach
+- 🛠️ **Learning by building:** Creating real projects to understand concepts
+- 📝 **Documentation:** Writing down what I learn for future reference
+- 🤝 **Community:** Learning from experienced developers and sharing my journey
+- 🔄 **Iteration:** Continuously improving and refining my skills
+- 🎯 **Growth mindset:** Every project is a chance to learn something new
 
-*Built with ❤️, lots of ☕, and a passion for solving problems with Python*
+*Built with ❤️, lots of ☕, and genuine enthusiasm for learning Python and cloud technologies*
 </details>
 
 <!--
 **DennisForge/DennisForge** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
-This profile represents an authentic development journey:
-- 🚀 Progressive skill development from fundamentals to practical applications
-- 🐍 Python specialization with focus on data analysis and system utilities
-- 📊 Real projects showcasing problem-solving and technical growth
-- 🤝 Open collaboration and continuous learning mindset
-- 💼 Building towards professional development opportunities
-- 🌱 Honest representation of current skills and future aspirations
+This profile represents an authentic learning journey:
+- 🚀 Progressive skill development from Python fundamentals to cloud basics
+- ☁️ First steps in cloud technologies with AWS and serverless learning
+- 📊 Real projects showcasing learning progression and problem-solving
+- 🤝 Open learning mindset and collaboration with developer community
+- 💼 Building foundation for junior developer opportunities
+- 🌱 Honest representation of current junior level and learning goals
 
-Perfect for: fellow developers, potential collaborators, learning communities
+Perfect for: junior developer opportunities, learning collaborations, mentorship connections
 -->
