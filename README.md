@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub! I'm Denis
+# 👋 Welcome to my GitHub! I'm Dennis
 
 <div align="center">
 
@@ -314,7 +314,7 @@ DennisForge
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennisForge)
 
 ### 🌍 From Serbia 🇷🇸
-*Building scalable cloud solutions, one serverless function at a time*
+*Learning Python, ML, and cloud technologies through hands-on projects*
 
 ---
 
