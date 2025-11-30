@@ -249,14 +249,15 @@ DennisForge
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennisForge&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisForge&layout=compact&langs_count=6&theme=radical&hide_border=true&cache_seconds=86400"/>
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DennisForge&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/DennisForge)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DennisForge&layout=compact&langs_count=6&theme=radical&hide_border=true)](https://github.com/DennisForge)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DennisForge&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DennisForge&theme=radical&hide_border=true)](https://github.com/DennisForge)
 
 </div>
 
