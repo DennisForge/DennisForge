@@ -6,9 +6,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/DennisForge?style=for-the-badge&color=blue)](https://github.com/DennisForge)
 [![GitHub stars](https://img.shields.io/github/stars/DennisForge?style=for-the-badge&color=yellow)](https://github.com/DennisForge)
 
-### 🎯 Junior Python Developer | Learning Cloud & AI | Building Skills Through Projects
+### 🎯 Junior Python Developer | Learning ML & Cloud | Building Skills Through Projects
 
-*Learning Python development, cloud services, and automation - one project at a time* 🚀
+*Learning Python, machine learning, and cloud technologies - one project at a time* 🚀
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Connect](https://img.shields.io/badge/Let's_Connect-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennisForge)
@@ -19,22 +19,22 @@
 
 ## 🚀 About Me
 
-I'm a junior Python developer learning cloud technologies, automation, and data analysis. My repositories showcase my learning journey from basic projects to more complex applications, demonstrating steady growth through hands-on practice.
+I'm a junior Python developer learning machine learning, cloud technologies, and data analysis. My repositories showcase my learning journey from basic projects to ML models and cloud applications, demonstrating steady growth through hands-on practice.
 
 ### 📍 Quick Info
 - 🇷🇸 **Location:** Serbia  
-- 🎯 **Status:** Junior Python developer learning cloud automation and data analysis
+- 🎯 **Status:** Junior Python developer exploring ML, cloud automation, and data science
 - 📚 **Current Level:** Junior developer focused on continuous learning
 - 💪 **Motto:** "Learning by building, one project at a time!"
 
 ### 🔍 Learning Focus Areas
+- 🤖 **Machine Learning & NLP basics**
 - 🐍 **Python development & OOP fundamentals**
 - ☁️ **AWS cloud services & serverless basics**
-- 📊 **Data analysis & API integrations** 
+- 📊 **Data analysis & visualization** 
 - 🔄 **ETL pipelines & data automation (learning)**
 - 🎮 **Game development & interactive applications**
 - 🔧 **System monitoring & automation tools**
-- 💻 **Text processing & data transformation**
 
 ### 📖 Currently Learning
 - Serverless architecture patterns and best practices
@@ -57,11 +57,11 @@ I'm a junior Python developer learning cloud technologies, automation, and data 
 </div>
 
 ### 📈 My Learning Progress
-- 🎯 **7 Repositories** - Learning journey from basic to cloud projects
-- 📚 **Python Skills** - Growing OOP knowledge, data processing, and utilities
-- 🔧 **Development Journey** - Learning API integration and cloud services
-- 📊 **Data Projects** - Movie data analysis and business analytics
-- ☁️ **Cloud Learning** - First AWS serverless project with Lambda
+- 🎯 **9 Repositories** - Learning journey from basics to ML and cloud
+- 🤖 **ML Projects** - Text classification, sentiment analysis, NLP learning
+- 📚 **Python Skills** - Growing OOP knowledge, data science, and utilities
+- 🔧 **Development Journey** - API integration, cloud services, ML pipelines
+- ☁️ **Cloud Learning** - AWS serverless with Lambda and S3
 
 ## 🛠️ Tech Stack & Learning Tools
 
@@ -69,18 +69,19 @@ I'm a junior Python developer learning cloud technologies, automation, and data 
 
 ### Core Technologies (Learning)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 
 ### Cloud Services (Exploring)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![EventBridge](https://img.shields.io/badge/EventBridge-FF4B4B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Data & APIs
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-25D366?style=for-the-badge&logo=api&logoColor=white)
+### Data Science & ML
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -96,7 +97,17 @@ I'm a junior Python developer learning cloud technologies, automation, and data 
 ```
 DennisForge
 │
-├── ☁️ aws-atp-pipeline ⭐ LATEST
+├── 🤖 ml-product-category-classifier ⭐ LATEST
+│   └── 🧠 Machine learning model for product category classification using NLP.
+│       Text classification with scikit-learn, TF-IDF vectorization, and
+│       supervised learning for automated product categorization.
+│
+├── 💬 ml-product-reviews-project
+│   └── 📊 Sentiment analysis and text analytics for product reviews.
+│       NLP-powered insights using machine learning to analyze customer feedback
+│       and extract meaningful patterns from review data.
+│
+├── ☁️ aws-atp-pipeline
 │   └── 🚀 Serverless AWS Lambda ETL pipeline for ATP tennis data analysis.
 │       Automated data processing with EventBridge scheduling, S3 storage,
 │       and secure API integration using Kaggle API and Secrets Manager.
@@ -150,6 +161,44 @@ DennisForge
 
 ---
 
+#### 🤖 [ML Product Category Classifier](https://github.com/DennisForge/ml-product-category-classifier) ⭐ NEW
+**Learning Machine Learning - Text Classification Project**
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&style=flat-square)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&style=flat-square)](https://scikit-learn.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&style=flat-square)](https://jupyter.org/)
+[![NLP](https://img.shields.io/badge/NLP-Text_Classification-green?style=flat-square)](#)
+
+**What I Learned:**
+- 🧠 **Machine Learning Basics** - First ML model using scikit-learn
+- 📝 **NLP Fundamentals** - Text vectorization with TF-IDF
+- 🎯 **Classification** - Supervised learning for categorization
+- 📊 **Model Evaluation** - Understanding accuracy and performance metrics
+- 🔄 **ML Pipeline** - Data preprocessing → Training → Prediction
+- 📓 **Jupyter Notebooks** - Interactive ML development and experimentation
+
+**[🔗 View Project](https://github.com/DennisForge/ml-product-category-classifier) | [📊 Notebook](https://github.com/DennisForge/ml-product-category-classifier)**
+
+---
+
+#### 💬 [ML Product Reviews Project](https://github.com/DennisForge/ml-product-reviews-project)
+**Sentiment Analysis - Learning NLP**
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&style=flat-square)](https://www.python.org/)
+[![NLP](https://img.shields.io/badge/NLP-Sentiment_Analysis-green?style=flat-square)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&style=flat-square)](https://jupyter.org/)
+
+**What I Learned:**
+- 💭 **Sentiment Analysis** - Analyzing customer review sentiments
+- 📊 **Text Analytics** - Extracting insights from unstructured text
+- 🔍 **Feature Engineering** - Creating meaningful features from text
+- 📈 **Data Visualization** - Visualizing ML results and patterns
+- 🧹 **Data Cleaning** - Preprocessing real-world messy data
+
+**[🔗 View Project](https://github.com/DennisForge/ml-product-reviews-project)**
+
+---
+
 #### 🎬 [Movie IMDb API Project](https://github.com/DennisForge/movie-imdb-api-project)
 **Data Integration & Analysis - API-Powered Movie Database**
 
@@ -186,7 +235,9 @@ DennisForge
 
 | Project | What I Learned | Focus Area | Status |
 |---------|----------------|------------|--------|
-| **aws-atp-pipeline** ⭐ | AWS Lambda, S3, cloud basics, serverless | Learning Cloud | ✅ Complete |
+| **ml-product-category-classifier** ⭐ | ML basics, NLP, text classification, scikit-learn | Machine Learning | ✅ Complete |
+| **ml-product-reviews-project** | Sentiment analysis, NLP, text analytics | Machine Learning | ✅ Complete |
+| **aws-atp-pipeline** | AWS Lambda, S3, cloud basics, serverless | Cloud Learning | ✅ Complete |
 | **movie-imdb-api-project** | API integration, data processing, XML | Data Analysis | ✅ Complete |
 | **system-check** | System monitoring, performance basics | System Tools | ✅ Complete |
 | **python-games-collection** | Game development, OOP, user interaction | Interactive Development | ✅ Complete |
@@ -210,10 +261,10 @@ DennisForge
 </div>
 
 ### 📈 Learning & Development Stats
-- 🔥 **Learning Focus** - Cloud basics, Python improvement, and hands-on project building
-- 💻 **Primary Learning Path** - Python with AWS cloud fundamentals
-- 📚 **Repository Count** - 7 projects showing learning progression from basics to cloud
-- 🎯 **Journey** - Python fundamentals → Cloud basics & automation
+- 🔥 **Learning Focus** - Machine learning, cloud technologies, and Python development
+- 💻 **Primary Learning Path** - Python → ML/Data Science → AWS Cloud
+- 📚 **Repository Count** - 9 projects showing progression from basics to ML and cloud
+- 🎯 **Journey** - Python fundamentals → ML & NLP → Cloud automation
 - 🤝 **Community** - Learning from others and sharing junior developer experiences
 
 ## 🧰 Current Learning Focus & Growth Plan
@@ -222,11 +273,11 @@ DennisForge
 
 | 📚 **Learning Area** | 📈 **Current Level** | 🎯 **Next Steps** |
 |---------------------|---------------------|-------------------|
+| 🤖 **Machine Learning & NLP** | Beginner → Intermediate | Deep learning, advanced ML |
 | 🐍 **Python & OOP** | Intermediate | Advanced patterns, testing |
 | ☁️ **AWS Cloud Services** | Beginner → Intermediate | More services, best practices |
-| 📊 **Serverless & ETL** | Beginner | More complex transformations |
+| 📊 **Data Science** | Beginner | Advanced visualization, stats |
 | 🔧 **DevOps & Automation** | Beginner | CI/CD basics, deployment |
-| 💾 **Data Engineering** | Learning | Database fundamentals, storage |
 
 </div>
 
