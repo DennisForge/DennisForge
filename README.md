@@ -249,11 +249,11 @@ DennisForge
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=DennisForge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DennisForge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisForge&layout=compact&theme=tokyonight&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisForge&layout=compact&theme=tokyonight&langs_count=8&v=1)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DennisForge&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DennisForge&theme=tokyonight)
 
 </div>
 
