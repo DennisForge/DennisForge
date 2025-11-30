@@ -249,11 +249,17 @@ DennisForge
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DennisForge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisForge&layout=compact&theme=tokyonight&langs_count=8&v=1)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DennisForge&theme=tokyonight)
+
+### 📈 Quick Stats
+![Commits](https://img.shields.io/github/commit-activity/m/DennisForge/DennisForge?style=for-the-badge&logo=github&label=Monthly%20Commits)
+![Code Size](https://img.shields.io/github/languages/code-size/DennisForge/DennisForge?style=for-the-badge&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/DennisForge/DennisForge?style=for-the-badge&logo=github)
+
+### 💻 Top Languages
+![Python](https://img.shields.io/badge/Python-Primary-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
